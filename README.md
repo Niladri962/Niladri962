@@ -66,7 +66,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/niladri-ghosh-209a731b2/">
+<a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/niladri-ghosh-209a731b2/](https://www.linkedin.com/in/niladri-ghosh-209a731b2/)">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn"/>
 </a>
 
