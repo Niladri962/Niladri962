@@ -13,6 +13,13 @@
 
 ## 📌 Featured Projects
 
+### ⚡ HNVec-Driven MultiDL Framework for Content Based Classification of Hindi News Articles                                                      (Journal Under Review)
+- Automated categorization of Hindi news articles using hybrid deep learning models, achieving a classification accuracy of over 85%. 
+- Implemented seven standalone models and multiple hybrid combinations, improving text classification precision from 30% to 70%. 
+- Designed algorithms like BiLSTM-CNN, LR-SVM, and CNN-LR-SVM, resulted in optimized model performance and reduced processing time. 
+- Applied Natural Language Processing (NLP) techniques and programmed models using Python libraries (TensorFlow, Keras, Scikit-learn), resulting in a 25% increase   in text processing efficiency for Hindi news articles. 
+- Collaborated with a team of 4 using Agile methodologies to design, develop, and implement automated categorization solutions.
+
 ### ⚡ WattWalk – Energy Generating Cycle Pedals (Patent)
 - Govt. of India, New Delhi Office
 - <b>Patent No - 40079-001</b>
@@ -23,12 +30,7 @@
 </a>
 </p>
 
-### ⚡ HNVec-Driven MultiDL Framework for Content Based Classification of Hindi News Articles                                                      (Journal Under Review)
-- Automated categorization of Hindi news articles using hybrid deep learning models, achieving a classification accuracy of over 85%. 
-- Implemented seven standalone models and multiple hybrid combinations, improving text classification precision from 30% to 70%. 
-- Designed algorithms like BiLSTM-CNN, LR-SVM, and CNN-LR-SVM, resulted in optimized model performance and reduced processing time. 
-- Applied Natural Language Processing (NLP) techniques and programmed models using Python libraries (TensorFlow, Keras, Scikit-learn), resulting in a 25% increase   in text processing efficiency for Hindi news articles. 
-- Collaborated with a team of 4 using Agile methodologies to design, develop, and implement automated categorization solutions.
+
 
 ---
 
